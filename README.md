@@ -86,9 +86,34 @@ O site é totalmente responsivo e se adapta a:
 - JavaScript (ES6+)
 - Font Awesome (ícones)
 
+## 💻 Executar Localmente
+
+Para visualizar o projeto localmente:
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/sourcenaiomiocc-creator/Link-Tree.git
+   ```
+
+2. Navegue até o diretório:
+   ```bash
+   cd Link-Tree
+   ```
+
+3. Abra o arquivo `index.html` em seu navegador ou use um servidor local:
+   ```bash
+   # Usando Python
+   python -m http.server 8000
+
+   # Usando Node.js
+   npx serve
+   ```
+
+4. Acesse `http://localhost:8000` no navegador
+
 ## 📄 Licença
 
-Projeto pessoal - Todos os direitos reservados © 2026
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ---
 
